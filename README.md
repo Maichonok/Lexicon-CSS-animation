@@ -12,3 +12,6 @@ The `@keyframes` CSS at-rule controls the intermediate steps in a CSS animation 
 
 ## animation-fill-mode
 The `animation-fill-mode` CSS property sets how a CSS animation applies styles to its target before and after its execution.
+
+## animation-iteration-count
+The `animation-iteration-count` CSS property sets the number of times an animation sequence should be played before stopping.
