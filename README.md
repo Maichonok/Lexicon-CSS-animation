@@ -8,4 +8,7 @@ The transform CSS property lets you rotate, scale, skew, or translate an element
 The transition CSS property is a shorthand property for `transition-property`, `transition-duration`, `transition-timing-function`, `transition-delay`, and `transition-behavior`.
 
 ## keyframes
-The @keyframes CSS at-rule controls the intermediate steps in a CSS animation sequence by defining styles for keyframes (or waypoints) along the animation sequence. This gives more control over the intermediate steps of the animation sequence than transitions.
+The `@keyframes` CSS at-rule controls the intermediate steps in a CSS animation sequence by defining styles for keyframes (or waypoints) along the animation sequence. This gives more control over the intermediate steps of the animation sequence than transitions.
+
+## animation-fill-mode
+The `animation-fill-mode` CSS property sets how a CSS animation applies styles to its target before and after its execution.
