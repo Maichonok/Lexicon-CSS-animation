@@ -15,3 +15,6 @@ The `animation-fill-mode` CSS property sets how a CSS animation applies styles t
 
 ## animation-iteration-count
 The `animation-iteration-count` CSS property sets the number of times an animation sequence should be played before stopping.
+
+## animation-direction
+The `animation-direction` CSS property sets whether an animation should play forward, backward, or alternate back and forth between playing the sequence forward and backward.
