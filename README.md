@@ -1,6 +1,12 @@
 # Lexicon-CSS-animation
 
 This resource is dedicated to creating CSS animations: [CSS Animation Tutorial](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+
+## extra tools
+[Brackets editor](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+
+[cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+
 ## transform
 The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model.
 
@@ -18,3 +24,7 @@ The `animation-iteration-count` CSS property sets the number of times an animati
 
 ## animation-direction
 The `animation-direction` CSS property sets whether an animation should play forward, backward, or alternate back and forth between playing the sequence forward and backward.
+
+## animation-timing-function
+The `animation-timing-function` CSS property sets how an animation progresses through the duration of each cycle.
+
