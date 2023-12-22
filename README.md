@@ -28,3 +28,5 @@ The `animation-direction` CSS property sets whether an animation should play for
 ## animation-timing-function
 The `animation-timing-function` CSS property sets how an animation progresses through the duration of each cycle.
 
+## animation shorthand 
+animation: name duration timing-function delay iteration-count direction fill-mode play-state;
